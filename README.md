@@ -1,4 +1,4 @@
-Supply Chain Management Dashboard 📊
+#Supply Chain Management Dashboard 📊
 Project Overview
 An interactive Power BI dashboard for comprehensive supply chain analytics of a Fashion and Beauty startup's makeup product line. This project transforms raw operational data into actionable insights for inventory optimization, supplier performance management, and logistics efficiency.
 
